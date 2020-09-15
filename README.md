@@ -14,7 +14,9 @@ Working of our website:
 	*flask_-sqlalchemy
 	*flask_wtf
 	*email_validator
-	*WTForms	
+	*WTForms
+	
+	
 >Click on ‘ Run.py’ file.
 >Home page or main page of our site contains information about our projects and many options like resource page,logout etc.
 >If you want to access resources, click on Login and register page. 
