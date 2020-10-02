@@ -4,6 +4,7 @@ This is a website which is built for students studying in 8th, 9th, 10th std. He
 
 About project :
 > This covid19 pandemic has made a bad impact on Students education.
+this websit provides study materials and videos
 > Students got confused about their studies.
 > We have created this website to help 8th to 10th std students of Karnataka state to access the study materials at one place. 
 
